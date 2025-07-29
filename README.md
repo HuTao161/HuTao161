@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi-Hello 👋, my name is Agung Ngurah AKA HuTao161 / HuTao19 
 
 <!--
 **HuTao161/HuTao161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hu Tao Picture 🦋
+![Agung Ngurah](images/hutao-ban.png)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuTao161&layout=compact&langs_count=6&hide_title=true)
+
+### GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuTao161&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
+
