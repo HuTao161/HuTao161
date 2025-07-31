@@ -33,6 +33,7 @@ Here are the technologies, tools, and languages I've worked with:
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" title="C#" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" title="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" title="C" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart" />
   
   <!-- Frameworks & Libraries -->
   ### Frameworks & Libraries ⚙️
@@ -40,10 +41,6 @@ Here are the technologies, tools, and languages I've worked with:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" title="Flutter" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" title="TailwindCSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
-  
-  <!-- Database -->
-  ### Database 💾
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
   
   <!-- Tools & IDEs -->
   ### Tools & IDEs 🛠️
@@ -53,14 +50,18 @@ Here are the technologies, tools, and languages I've worked with:
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" title="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Apache_NetBeans-000000?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" title="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-000000?style=flat&logo=apache-netbeans&logoColor=white" alt="Apache NetBeans" title="NetBeans" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP" title="XAMPP" />
+  
+  <!-- Database -->
+  ### Database 💾
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
   
   <!-- Design & UI/UX Tools -->
   ### Design & UI/UX Tools 🎨
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Figma" />
   <img src="https://img.shields.io/badge/FlutterFlow-0099FF?style=flat&logo=flutter&logoColor=white" alt="FlutterFlow" title="FlutterFlow" />
 </div>
-
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuTao161&layout=compact&langs_count=6&hide_title=true)
