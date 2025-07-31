@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Languages I’ve Learned
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #0d1117; padding: 15px; border-radius: 8px; border: 2px solid #f0f6fc; width: 50%; margin: 0 auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; background-color: #0d1117; padding: 15px; border-radius: 8px; border: 2px solid #f0f6fc; width: 540px; margin: 0 auto;">
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   
