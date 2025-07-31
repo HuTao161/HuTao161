@@ -34,6 +34,8 @@ Here are the technologies, tools, and languages I've worked with:
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" title="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" title="C" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" title="Dart" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" title="PHP" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" title="Lua" />
   
   <!-- Frameworks & Libraries -->
   ### Frameworks & Libraries ⚙️
@@ -62,6 +64,7 @@ Here are the technologies, tools, and languages I've worked with:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" title="Figma" />
   <img src="https://img.shields.io/badge/FlutterFlow-0099FF?style=flat&logo=flutter&logoColor=white" alt="FlutterFlow" title="FlutterFlow" />
 </div>
+
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuTao161&layout=compact&langs_count=6&hide_title=true)
