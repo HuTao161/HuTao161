@@ -1,4 +1,4 @@
-# Hi-Hello 👋, my name is Agung Ngurah AKA HuTao161 / HuTao19 
+# Hi-Hello 👋, my name is Agung Ngurah 
 
 <!--
 **HuTao161/HuTao161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
